@@ -3,11 +3,13 @@
 ## Learn how to add a little life to a boring screen
 
 
-Add keyframe animation
+Add keyframe animation:
+
 ![Video Demo](TwitterBirdFly1.gif)
 
 
-Add a gesture recognizer and spring animation 
-![Video Demo](TwitterBirdFly1.gif)
+Add a gesture recognizer and spring animation:
+
+![Video Demo](TwitterBirdFly2.gif)
 
 
